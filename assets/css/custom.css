@@ -80,9 +80,7 @@
     }
   }
   
-  body {
-      background-color: #010101;
-    }
+  
     
   .row {
     overflow: hidden;
@@ -92,3 +90,11 @@
   .logo-carousel {
     margin-top: 32px;
   }
+
+  .brands{
+    padding: 18px !important;
+  }
+
+
+
+  
