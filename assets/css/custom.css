@@ -95,7 +95,9 @@
     padding: 18px !important;
   }
 
-
+.invert{
+  filter: grayscale(100%);
+}
 
 
 

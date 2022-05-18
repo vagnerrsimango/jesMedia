@@ -7,3 +7,8 @@ $link.on('click', function(event) {
 });
 
 $('.default').trigger('click');
+
+
+$('.slide').mousehover(function(){
+  alert('ok')
+})
